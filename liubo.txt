@@ -7,7 +7,7 @@ package
 	{
 		public function Game()
 		{
-			var textField:TextField = new TextField(400, 300, "Welcome to Starling!");
+			var textField:TextField = new TextField(400, 300, "Welcome Liubo to Starling!");
 			addChild(textField);
 		}
 	}
